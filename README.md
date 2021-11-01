@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaelrebelo , I'm a lawyer passionate about compliance, AML, data analytics financial regulation and data analytics!
+- 👋 Hi, I’m @rafaelrebelo , I'm a lawyer passionate about compliance, AML, financial regulation and data analytics!
 
 - 👀 I’m interested in AML, Data Analytics and Risk Management.
 
